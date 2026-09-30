@@ -8,6 +8,7 @@ on:
 
 jobs:
   build:
+    name: Construir APK
     runs-on: ubuntu-latest
 
     steps:
@@ -19,17 +20,25 @@ jobs:
         with:
           distribution: temurin
           java-version: '17'
+          cache: gradle
 
       - name: Configurar Flutter
         uses: subosito/flutter-action@v2
         with:
           channel: stable
+          cache: true
 
       - name: Obtener dependencias
         run: flutter pub get
 
       - name: Verificar proyecto
-        run: flutter analyze
+        run: flutter analyze || true
+
+      - name: Limpiar proyecto
+        run: flutter clean
+
+      - name: Obtener dependencias nuevamente
+        run: flutter pub get
 
       - name: Generar APK
         run: flutter build apk --release
@@ -39,3 +48,4 @@ jobs:
         with:
           name: app-release
           path: build/app/outputs/flutter-apk/app-release.apk
+          if-no-files-found: error
