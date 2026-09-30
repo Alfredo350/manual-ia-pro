@@ -1,0 +1,80 @@
+{
+ "es": [
+  {
+   "n": 1,
+   "text": "Manual Operativo de Caja · Versión 2.1\nManual Operativo de Caja\nProcedimientos para cajeros y supervisores de tienda. Versión 2.1.\n1. Introducción\nEste manual describe cómo abrir, operar y cerrar una caja registradora en la tienda. Debe leerse\nantes del primer turno y consultarse ante cualquier duda.\n1.1 Alcance\nAplica a todas las cajas de la tienda, en todos los turnos. No cubre la administración de inventario ni\nla atención de reclamos, que tienen sus propios manuales.\n1.2 Responsables\nEl cajero es responsable del efectivo y de los comprobantes de su caja durante el turno. El supervisor\nde turno autoriza las excepciones, revisa los arqueos y firma el acta de cierre.\nPágina 1"
+  },
+  {
+   "n": 2,
+   "text": "Manual Operativo de Caja · Versión 2.1\n2. Apertura de caja\nLa caja se abre al inicio de cada turno, antes de atender al primer cliente.\n2.1 Fondo inicial\nEl supervisor entrega al cajero un fondo inicial de 500 bolivianos en billetes y monedas de baja\ndenominación. El cajero cuenta el fondo en presencia del supervisor y ambos firman la planilla de\napertura.\n2.2 Verificación del equipo\nAntes de abrir, el cajero verifica que la impresora de tickets tenga papel, que el lector de códigos\nfuncione y que el terminal de tarjetas esté conectado. Si algún equipo falla, se avisa al supervisor y\nse usa otra caja.\n2.3 Inicio de sesión en el sistema\nEl cajero ingresa al sistema de ventas con su código personal. El código es individual y no debe\ncompartirse con otros empleados.\nPágina 2"
+  },
+  {
+   "n": 3,
+   "text": "Manual Operativo de Caja · Versión 2.1\n3. Ventas\n3.1 Registro de ventas\nCada producto se registra con el lector de códigos. Si el código no se lee, el cajero lo ingresa\nmanualmente. Al terminar, se informa el total al cliente y se entrega el ticket impreso.\n3.2 Medios de pago\nSe aceptan efectivo, tarjeta de débito, tarjeta de crédito y pago con código QR. Los pagos con tarjeta\no QR se confirman solo cuando el terminal muestra el mensaje «Aprobado».\n3.3 Anulaciones\nSolo el supervisor de turno puede autorizar la anulación de una venta. El cajero registra el motivo en\nel sistema y el supervisor firma el registro de anulaciones. Una venta anulada no puede volver a\nactivarse.\nPágina 3"
+  },
+  {
+   "n": 4,
+   "text": "Manual Operativo de Caja · Versión 2.1\n4. Arqueo y cierre\n4.1 Arqueo parcial\nA mitad de cada turno se realiza un arqueo parcial: el cajero cuenta el efectivo y lo compara con el\nreporte parcial del sistema, sin cerrar la caja.\n4.2 Cierre de caja\nAl finalizar el turno, el cajero no podrá registrar nuevas operaciones. Para realizar el cierre de caja\nsiga estos pasos:\n1. Genere el reporte de ventas del turno en el sistema.\n2. Cuente el efectivo por denominación.\n3. Compare el conteo con el reporte y registre cualquier diferencia.\n4. Firme el acta de cierre y entréguela al supervisor.\nImportante: el fondo inicial de 500 bolivianos no forma parte de las ventas del turno y se devuelve al\nsupervisor.\nPágina 4"
+  },
+  {
+   "n": 5,
+   "text": "Manual Operativo de Caja · Versión 2.1\n4.3 Diferencias\nSi el efectivo contado no coincide con el reporte, la diferencia se registra en el acta de cierre. Las\ndiferencias mayores a la tolerancia deben ser revisadas por el supervisor antes de firmar.\nTipo de diferencia Tolerancia Acción\nFaltante Hasta 10 Bs Registrar en el acta\nFaltante Más de 10 Bs Revisión del supervisor\nSobrante Cualquier monto Registrar y depositar\n4.4 Archivo del acta\nEl acta de cierre firmada se entrega al supervisor, que la archiva en la carpeta del día junto con el\nreporte de ventas. Las actas se conservan durante un año.\nPágina 5"
+  },
+  {
+   "n": 6,
+   "text": "Manual Operativo de Caja · Versión 2.1\n5. Seguridad\n5.1 Retiros de efectivo\nCuando el efectivo en la caja supera los 2.000 bolivianos, el supervisor realiza un retiro parcial y lo\nguarda en la caja fuerte. El retiro se registra en el sistema con la firma de ambos.\n5.2 Billetes sospechosos\nSi un billete parece falso, el cajero no lo acepta y solicita otro medio de pago con amabilidad. Luego\ninforma al supervisor.\n6. Contactos\nAnte fallas del sistema de ventas llame a soporte técnico, interno 204. Para emergencias de\nseguridad, avise de inmediato al supervisor de turno.\nPágina 6"
+  }
+ ],
+ "en": [
+  {
+   "n": 1,
+   "text": "Cash Register Operations Manual · Version 2.1\nCash Register Operations Manual\nProcedures for store cashiers and supervisors. Version 2.1.\n1. Introduction\nThis manual describes how to open, operate and close a cash register in the store. Read it before\nyour first shift and check it whenever you have a question.\n1.1 Scope\nIt applies to every register in the store, on every shift. It does not cover inventory management or\ncustomer complaints, which have their own manuals.\n1.2 Responsibilities\nThe cashier is responsible for the cash and receipts in the register during the shift. The shift\nsupervisor authorizes exceptions, reviews cash counts and signs the closing record.\nPage 1"
+  },
+  {
+   "n": 2,
+   "text": "Cash Register Operations Manual · Version 2.1\n2. Opening the register\nThe register is opened at the start of each shift, before serving the first customer.\n2.1 Starting float\nThe supervisor gives the cashier a starting float of 500 dollars in small bills and coins. The cashier\ncounts the float in front of the supervisor and both sign the opening sheet.\n2.2 Equipment check\nBefore opening, the cashier checks that the receipt printer has paper, the barcode scanner works and\nthe card terminal is connected. If any equipment fails, tell the supervisor and use another register.\n2.3 Signing in to the system\nThe cashier signs in to the sales system with a personal code. The code is individual and must not be\nshared with other employees.\nPage 2"
+  },
+  {
+   "n": 3,
+   "text": "Cash Register Operations Manual · Version 2.1\n3. Sales\n3.1 Recording sales\nEach product is recorded with the barcode scanner. If the code cannot be read, the cashier types it in.\nWhen finished, tell the customer the total and hand over the printed receipt.\n3.2 Payment methods\nCash, debit cards, credit cards and QR code payments are accepted. Card or QR payments are\nconfirmed only when the terminal shows the message “Approved”.\n3.3 Cancellations\nOnly the shift supervisor can authorize a sale cancellation. The cashier records the reason in the\nsystem and the supervisor signs the cancellation log. A cancelled sale cannot be reactivated.\nPage 3"
+  },
+  {
+   "n": 4,
+   "text": "Cash Register Operations Manual · Version 2.1\n4. Cash count and closing\n4.1 Partial cash count\nHalfway through each shift a partial cash count is done: the cashier counts the cash and compares it\nwith the partial system report, without closing the register.\n4.2 Closing the register\nAt the end of the shift the cashier can no longer record new transactions. To close the register, follow\nthese steps:\n1. Print the shift sales report from the system.\n2. Count the cash by denomination.\n3. Compare the count with the report and record any difference.\n4. Sign the closing record and hand it to the supervisor.\nImportant: the 500 dollar starting float is not part of the shift sales and is returned to the supervisor.\nPage 4"
+  },
+  {
+   "n": 5,
+   "text": "Cash Register Operations Manual · Version 2.1\n4.3 Differences\nIf the counted cash does not match the report, the difference is recorded in the closing record.\nDifferences above the tolerance must be reviewed by the supervisor before signing.\nType of difference Tolerance Action\nShortage Up to 10 dollars Record it\nShortage Over 10 dollars Supervisor review\nOverage Any amount Record and deposit\n4.4 Filing the closing record\nThe signed closing record goes to the supervisor, who files it in that day’s folder together with the\nsales report. Records are kept for one year.\nPage 5"
+  },
+  {
+   "n": 6,
+   "text": "Cash Register Operations Manual · Version 2.1\n5. Security\n5.1 Cash withdrawals\nWhen the cash in the register exceeds 2,000 dollars, the supervisor makes a partial withdrawal and\nstores it in the safe. The withdrawal is recorded in the system and signed by both.\n5.2 Suspicious bills\nIf a bill looks fake, the cashier does not accept it and politely asks for another payment method. Then\nthe cashier informs the supervisor.\n6. Contacts\nIf the sales system fails, call technical support at extension 204. For security emergencies, tell the\nshift supervisor immediately.\nPage 6"
+  }
+ ],
+ "pt": [
+  {
+   "n": 1,
+   "text": "Manual Operacional de Caixa · Versão 2.1\nManual Operacional de Caixa\nProcedimentos para operadores de caixa e supervisores da loja. Versão 2.1.\n1. Introdução\nEste manual descreve como abrir, operar e fechar um caixa na loja. Deve ser lido antes do primeiro\nturno e consultado sempre que houver dúvidas.\n1.1 Abrangência\nAplica-se a todos os caixas da loja, em todos os turnos. Não cobre a gestão de estoque nem o\natendimento de reclamações, que têm manuais próprios.\n1.2 Responsáveis\nO operador de caixa é responsável pelo dinheiro e pelos comprovantes do seu caixa durante o turno.\nO supervisor do turno autoriza as exceções, revisa as conferências e assina a ata de fechamento.\nPágina 1"
+  },
+  {
+   "n": 2,
+   "text": "Manual Operacional de Caixa · Versão 2.1\n2. Abertura do caixa\nO caixa é aberto no início de cada turno, antes de atender o primeiro cliente.\n2.1 Fundo de troco\nO supervisor entrega ao operador um fundo de troco de 500 reais em cédulas e moedas de baixo\nvalor. O operador confere o fundo na presença do supervisor e ambos assinam a planilha de\nabertura.\n2.2 Verificação dos equipamentos\nAntes de abrir, o operador verifica se a impressora de cupons tem papel, se o leitor de códigos\nfunciona e se a maquininha de cartão está conectada. Se algum equipamento falhar, avise o\nsupervisor e use outro caixa.\n2.3 Acesso ao sistema\nO operador entra no sistema de vendas com seu código pessoal. O código é individual e não deve\nser compartilhado com outros funcionários.\nPágina 2"
+  },
+  {
+   "n": 3,
+   "text": "Manual Operacional de Caixa · Versão 2.1\n3. Vendas\n3.1 Registro de vendas\nCada produto é registrado com o leitor de códigos. Se o código não for lido, o operador o digita\nmanualmente. Ao terminar, informe o total ao cliente e entregue o cupom impresso.\n3.2 Formas de pagamento\nSão aceitos dinheiro, cartão de débito, cartão de crédito e pagamento por código QR. Pagamentos\ncom cartão ou QR só são confirmados quando a maquininha mostra a mensagem «Aprovado».\n3.3 Cancelamentos\nSomente o supervisor do turno pode autorizar o cancelamento de uma venda. O operador registra o\nmotivo no sistema e o supervisor assina o registro de cancelamentos. Uma venda cancelada não\npode ser reativada.\nPágina 3"
+  },
+  {
+   "n": 4,
+   "text": "Manual Operacional de Caixa · Versão 2.1\n4. Conferência e fechamento\n4.1 Conferência parcial\nNa metade de cada turno é feita uma conferência parcial: o operador conta o dinheiro e compara\ncom o relatório parcial do sistema, sem fechar o caixa.\n4.2 Fechamento de caixa\nAo final do turno, o operador não poderá registrar novas operações. Para fazer o fechamento de\ncaixa, siga estas etapas:\n1. Gere o relatório de vendas do turno no sistema.\n2. Conte o dinheiro por cédula e moeda.\n3. Compare a contagem com o relatório e registre qualquer diferença.\n4. Assine a ata de fechamento e entregue ao supervisor.\nImportante: o fundo de troco de 500 reais não faz parte das vendas do turno e é devolvido ao\nsupervisor.\nPágina 4"
+  },
+  {
+   "n": 5,
+   "text": "Manual Operacional de Caixa · Versão 2.1\n4.3 Diferenças\nSe o dinheiro contado não coincidir com o relatório, a diferença é registrada na ata de fechamento.\nDiferenças acima da tolerância devem ser revisadas pelo supervisor antes da assinatura.\nTipo de diferença Tolerância Ação\nFalta Até 10 reais Registrar na ata\nFalta Mais de 10 reais Revisão do supervisor\nSobra Qualquer valor Registrar e depositar\n4.4 Arquivo da ata\nA ata de fechamento assinada é entregue ao supervisor, que a arquiva na pasta do dia junto com o\nrelatório de vendas. As atas são guardadas por um ano.\nPágina 5"
+  },
+  {
+   "n": 6,
+   "text": "Manual Operacional de Caixa · Versão 2.1\n5. Segurança\n5.1 Sangrias\nQuando o dinheiro no caixa passa de 2.000 reais, o supervisor faz uma sangria e guarda o valor no\ncofre. A sangria é registrada no sistema com a assinatura de ambos.\n5.2 Cédulas suspeitas\nSe uma cédula parecer falsa, o operador não a aceita e pede outra forma de pagamento com\ngentileza. Depois informa o supervisor.\n6. Contatos\nEm caso de falha no sistema de vendas, ligue para o suporte técnico, ramal 204. Em emergências de\nsegurança, avise imediatamente o supervisor do turno.\nPágina 6"
+  }
+ ]
+}

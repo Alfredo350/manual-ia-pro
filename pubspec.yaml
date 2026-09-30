@@ -1,0 +1,60 @@
+name: manual_ia_pro
+description: "MANUAL IA Pro – sin límites. Consulta tus manuales PDF o Word por texto o por voz, sin internet."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  provider: ^6.1.2
+  shared_preferences: ^2.3.2
+  file_picker: ^10.1.2
+  speech_to_text: ^7.0.0
+  flutter_tts: ^4.2.0
+  url_launcher: ^6.3.0
+  permission_handler: ^12.0.1
+  path_provider: ^2.1.4
+  # Lectura de PDF (texto, posición de cada letra y dibujo de la página)
+  pdfrx: ">=2.2.5 <2.5.0"
+  # Lectura de Word (.docx)
+  archive: ">=3.6.1 <5.0.0"
+  xml: ">=6.5.0 <8.0.0"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.1
+
+# Ícono de la app. Se genera con:  dart run flutter_launcher_icons
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/app_icon.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#0B3BC6"
+  adaptive_icon_foreground: "assets/icon/app_icon_foreground.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/samples/
+  fonts:
+    - family: PlusJakartaSans
+      fonts:
+        - asset: assets/fonts/PlusJakartaSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/PlusJakartaSans-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/PlusJakartaSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/PlusJakartaSans-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/PlusJakartaSans-ExtraBold.ttf
+          weight: 800

@@ -1,0 +1,20 @@
+# Archivos que Flutter genera al compilar
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+android/.gradle/
+android/local.properties
+android/app/debug/
+android/app/release/
+android/app/profile/
+*.iml
+.idea/
+.vscode/
+
+# ¡NUNCA subir la clave de firma ni contraseñas!
+*.jks
+*.keystore
+android/key.properties
+.env
